@@ -1,0 +1,44 @@
+*{
+      text-align: center; 
+                
+     }
+
+#container{
+   background:  hsl(212, 45%, 89%); 
+}
+
+#image{
+    width: 360px;
+    height: 350px;
+    border-radius: 15px;
+    position: relative;
+    top: 5px;
+}
+
+#content{
+    width: 380px;
+    height: 590px;
+    padding: 10px;
+    margin: 10px auto ;
+    background: white;
+    border-radius: 15px;
+}
+
+.h1{
+    font-family: cursive;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 30px;
+    padding: 10px;
+    font-size: 27px;
+ }
+
+.small{
+    color:darkgray;
+    font-family: cursive;
+    position: relative;
+    font-weight: 400;
+    font-size: 19px;
+    padding: 0 10px 10px;
+    top: -10px;
+}
